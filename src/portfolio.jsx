@@ -475,7 +475,7 @@ const Portfolio = () => {
 
       {/* Footer */}
       <footer className="bg-slate-900 dark:bg-black text-slate-400 dark:text-slate-500 py-8 px-4 text-center transition-colors duration-300">
-        <p>© 2024 MD Atif Alam. Built with React & Tailwind CSS.</p>
+        <p>© 2026 MD Atif Alam. Built with React & Tailwind CSS.</p>
         <p className="text-sm mt-2">Designed for excellence. Coded with passion.</p>
       </footer>
     </div>
