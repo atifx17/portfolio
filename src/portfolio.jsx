@@ -72,28 +72,35 @@ const Portfolio = () => {
       title: "AIR 3,322 in AINCAT 2025",
       description: "Among 4.6 lakh candidates",
       icon: Award,
-      link: "#",
-      linkText: "View Result"
+      link: "https://www.naukri.com/campus/certificates/naukri_campus_ai_ncat_participation_may_2025/v0/683a06e5892c1f3133aadcbe",
+      linkText: "View Certificate"
     },
     {
       title: "MERN Stack Certification",
       description: "Apna College",
       icon: Code,
-      link: "#",
+      link: "https://drive.google.com/file/d/1CuRayotpnXKO2PfXZBBNSPSsi0uOq1aK/view",
       linkText: "View Certificate"
     },
     {
       title: "Google Cloud Infrastructure",
       description: "Coursera Foundation Course",
       icon: Server,
-      link: "https://coursera.org",
-      linkText: "Verify on Coursera"
+      link: "https://coursera.org/share/e5ad9895def87e3ee63a28b02b177137",
+      linkText: "View Certificate"
     },
     {
-      title: "ReactJS & Java Certifications",
+      title: "ReactJS Certification",
+      description: "Infosys Springboard",
+      icon: Code,
+      link: "https://drive.google.com/file/d/1D5fvSOaL4W1ix4besdmcx27cyxe4zDhi/view",
+      linkText: "View Certificate"
+    },
+    {
+      title: "Java Programming Certification",
       description: "Infosys Springboard",
       icon: Database,
-      link: "#",
+      link: "https://drive.google.com/file/d/1D3fkzz94fnVO7RCGS8qdPf5CjgG1Hlre/view",
       linkText: "View Certificate"
     }
   ];
